@@ -19,7 +19,7 @@ Project Outline:
     1. Pie chart specific to genre comprehensive to all data available
     2. 2020 to 2021 genre comparison bar chart 
     3. Color coded scatter plot with stream comparison + genre
-        # of times charted vs. # time steamed
+        # of times charted vs. # time streamed
     4. Numbers of times charted vs. highest charting position (scatter plot)
     5. appearance of artist to determine popularity (count/number of times artist is on chart in a simple bar chart) 
     6. These artist are multi genre artist (not all data/ artist specific)
