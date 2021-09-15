@@ -27,8 +27,6 @@ Project Outline:
     8. How many weeks a song is on a chart vs. number of streams (scatter plot) data of top 50 songs that ranked #1 (write axis to hover for song information)
 <<<<<<< HEAD
     9. From date of song release to how long it took to hit the chart
-=======
->>>>>>> 67cc932fd47f19d8eab15edcbf1402e8017af737
 
 - Api possibly itunes, shazam etc. (optional) 
     - Comparing API (or dataset) of competitor to data available to see correlation or matching 
